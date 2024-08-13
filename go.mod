@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/in-toto/in-toto-golang v0.9.0
-	github.com/sigstore/cosign v1.13.1
+	github.com/sigstore/cosign v1.13.2
 	github.com/sigstore/sigstore v1.6.4
 	github.com/spf13/cobra v1.7.0
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
@@ -110,7 +110,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
 	github.com/google/btree v1.1.2 // indirect
-	github.com/google/certificate-transparency-go v1.1.3 // indirect
+	github.com/google/certificate-transparency-go v1.1.4 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/go-containerregistry v0.14.0 // indirect
 	github.com/google/go-github/v45 v45.2.0 // indirect
@@ -167,7 +167,7 @@ require (
 	github.com/secure-systems-lab/go-securesystemslib v0.6.0 // indirect
 	github.com/segmentio/ksuid v1.0.4 // indirect
 	github.com/shibumi/go-pathspec v1.3.0 // indirect
-	github.com/sigstore/fulcio v0.6.0 // indirect
+	github.com/sigstore/fulcio v1.0.0 // indirect
 	github.com/sigstore/protobuf-specs v0.1.0 // indirect
 	github.com/sigstore/rekor v1.2.0 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
@@ -190,7 +190,7 @@ require (
 	github.com/transparency-dev/merkle v0.0.2 // indirect
 	github.com/urfave/cli v1.22.7 // indirect
 	github.com/vbatts/tar-split v0.11.2 // indirect
-	github.com/xanzy/go-gitlab v0.73.1 // indirect
+	github.com/xanzy/go-gitlab v0.74.0 // indirect
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
 	github.com/zeebo/errs v1.3.0 // indirect
 	go.etcd.io/bbolt v1.3.7 // indirect
