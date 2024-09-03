@@ -7,7 +7,7 @@ require (
 	github.com/sigstore/cosign v1.13.1
 	github.com/sigstore/sigstore v1.6.4
 	github.com/spf13/cobra v1.7.0
-	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
+	golang.org/x/xerrors v0.0.0-20240903120638-7835f813f4da
 )
 
 require (
