@@ -6,7 +6,7 @@ require (
 	github.com/in-toto/in-toto-golang v0.9.0
 	github.com/sigstore/cosign v1.13.1
 	github.com/sigstore/sigstore v1.6.4
-	github.com/spf13/cobra v1.7.0
+	github.com/spf13/cobra v1.10.1
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028
 )
 
@@ -69,7 +69,7 @@ require (
 	github.com/coreos/go-oidc/v3 v3.5.0 // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
-	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
+	github.com/cpuguy83/go-md2man/v2 v2.0.6 // indirect
 	github.com/cyberphone/json-canonicalization v0.0.0-20220623050100-57a0ce2678a7 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dimchansky/utfbom v1.1.1 // indirect
@@ -176,7 +176,7 @@ require (
 	github.com/spf13/afero v1.9.3 // indirect
 	github.com/spf13/cast v1.5.0 // indirect
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
+	github.com/spf13/pflag v1.0.9 // indirect
 	github.com/spf13/viper v1.15.0 // indirect
 	github.com/spiffe/go-spiffe/v2 v2.1.3 // indirect
 	github.com/stretchr/testify v1.8.3 // indirect
